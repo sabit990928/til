@@ -1,0 +1,3 @@
+# Design: Scale
+
+While using Figma there could be use cases when you want to scale your element. You do it by selecting one of the edges and making it smaller. Once I tried to do such manipulation and stuck on it because icon left the same size. After quick research I found out that cursor(move tools) has 2 options: Move & Scale. By default it's under Move option, so you can switch between them by UI or hotkeys as V & K. Scale option did what I want. I don't really know what are proper use cases for them, but at least it solved my problem)
