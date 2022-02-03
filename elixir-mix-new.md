@@ -1,0 +1,5 @@
+# New project creation by mix
+
+I knew about that earlier, but there wasn't any use case to play around. For my exercise related stuff, functionality provided by `iex` was enough. It's like when you open dev console in browser. One thing which I missed is recompilation. I just terminated and compiled file manually. 
+
+Tomorrow there was a situation to add tests for some function and build simple, fancy app. Then I started new elixir project by typing `mix new tt`(tt as name of the project). It includes basic boilerplate files which is required, `mix.exs`, `test` and `lib` folders. Which is already enough to start development. `mix.exs` is similar to `package.json` with dependencies and project related data. You can run app by typing `iex -S mix` and there is easy to recompile when you need it, type `recompile`) 
